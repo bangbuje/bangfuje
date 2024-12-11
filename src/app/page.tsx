@@ -1,5 +1,5 @@
-import LandingPage from '../components/Landing/page'
+import LandingPageComp from '../components/Landing/page'
 
-export default function HomePage() {
-	return <LandingPage />
+export default function LandingPage() {
+	return <LandingPageComp />
 }
